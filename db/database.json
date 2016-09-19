@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "",
+        "host": "localhost",
+        "database": "jamdates_dev"
+    },
+
+    "test": {
+        "driver": "pg",
+        "user": "postgres",
+        "password": "",
+        "host": "localhost",
+        "database": "jamdates_test"
+    },
+
+    "prod": {
+        "driver": "pg",
+        "user": "routyfruity",
+        "host": {"ENV": "POSTGRES_SERVICE_HOST"},
+        "password": "superduperroutes1337bro",
+        "database": "fruits"
+    },
+    "sql-file" : true,
+    "migrations-dir": "./.migrations"
+}

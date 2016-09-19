@@ -1,0 +1,266 @@
+[
+  {
+    "id": "app.components.LocaleToggle.de",
+    "defaultMessage": "de",
+    "message": ""
+  },
+  {
+    "id": "app.components.LocaleToggle.en",
+    "defaultMessage": "en",
+    "message": ""
+  },
+  {
+    "id": "boilerplate.components.Footer.author.message",
+    "defaultMessage": "Made with love by {author}.",
+    "message": "Made with love by {author}."
+  },
+  {
+    "id": "boilerplate.components.Footer.license.message",
+    "defaultMessage": "This project is licensed under the MIT license.",
+    "message": "This project is licensed under the MIT license."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.css.header",
+    "defaultMessage": "Features",
+    "message": "Next generation CSS"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.css.message",
+    "defaultMessage": "Next generation CSS",
+    "message": "Write composable CSS that's co-located with your components for\n                complete modularity. Unique generated class names keep the\n                specificity low while eliminating style clashes. Ship only the\n                styles that are on the page for the best performance."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.feedback.header",
+    "defaultMessage": "Instant feedback",
+    "message": "Instant feedback"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.feedback.message",
+    "defaultMessage": "Enjoy the best DX and code your app at the speed of thought! Your\n    saved changes to the CSS and JS are reflected instantaneously\n    without refreshing the page. Preserve application state even when\n    you update something in the underlying code!",
+    "message": "Enjoy the best DX and code your app at the speed of thought! Your\n                saved changes to the CSS and JS are reflected instantaneously\n                without refreshing the page. Preserve application state even when\n                you update something in the underlying code!"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.header",
+    "defaultMessage": "Features",
+    "message": ""
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.home",
+    "defaultMessage": "Home",
+    "message": "Home"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.internationalization.header",
+    "defaultMessage": "Complete i18n Standard Internationalization & Pluralization",
+    "message": "Complete i18n Standard Internationalization & Pluralization"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.internationalization.message",
+    "defaultMessage": "Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.",
+    "message": "Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.javascript.header",
+    "defaultMessage": "Next generation JavaScript",
+    "message": "Next generation JavaScript"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.javascript.message",
+    "defaultMessage": "Use template strings, object destructuring, arrow functions, JSX\n    syntax and more, today.",
+    "message": "Use template strings, object destructuring, arrow functions, JSX\n                syntax and more, today."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.network.header",
+    "defaultMessage": "Offline-first",
+    "message": "Offline-first"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.network.message",
+    "defaultMessage": "The next frontier in performant web apps: availability without a\n      network connection from the instant your users load the app.",
+    "message": "The next frontier in performant web apps: availability without a\n                  network connection from the instant your users load the app."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.routing.header",
+    "defaultMessage": "Industry-standard routing",
+    "message": "Industry-standard routing"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.routing.message",
+    "defaultMessage": "Write composable CSS that's co-located with your components for\n    complete modularity. Unique generated class names keep the\n    specificity low while eliminating style clashes. Ship only the\n    styles that are on the page for the best performance.",
+    "message": "It's natural to want to add pages (e.g. '/about') to your\n                application, and routing makes this possible."
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.scaffolding.header",
+    "defaultMessage": "Quick scaffolding",
+    "message": "Quick scaffolding"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.scaffolding.message",
+    "defaultMessage": "Automate the creation of components, containers, routes, selectors\n  and sagas - and their tests - right from the CLI!",
+    "message": "Automate the creation of components, containers, routes, selectors\n                and sagas - and their tests - right from the CLI!"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.state_management.header",
+    "defaultMessage": "Predictable state management",
+    "message": "Predictable state management"
+  },
+  {
+    "id": "boilerplate.containers.FeaturePage.state_management.message",
+    "defaultMessage": "Unidirectional data flow allows for change logging and time travel\n    debugging.",
+    "message": "Unidirectional data flow allows for change logging and time travel\n                debugging."
+  },
+  {
+    "id": "boilerplate.containers.HomePage.getStarted.Button",
+    "defaultMessage": "Get started",
+    "message": "Get started"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.dateSetup.next",
+    "defaultMessage": "Next",
+    "message": "Next"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.dateSetup.selectInstruments",
+    "defaultMessage": "Select one or more instruments you play",
+    "message": "Select one or more instruments you play"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.start_project.header",
+    "defaultMessage": "Start your next react project in seconds",
+    "message": "Start your next react project in seconds"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.start_project.message",
+    "defaultMessage": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+    "message": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.tryme.atPrefix",
+    "defaultMessage": "@",
+    "message": "@"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.tryme.header",
+    "defaultMessage": "Try me!",
+    "message": "Try me!"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.tryme.message",
+    "defaultMessage": "Show Github repositories by",
+    "message": "Show Github repositories by"
+  },
+  {
+    "id": "boilerplate.containers.NotFoundPage.header",
+    "defaultMessage": "Page not found.",
+    "message": "Page not found."
+  },
+  {
+    "id": "boilerplate.containers.NotFoundPage.home",
+    "defaultMessage": "Home",
+    "message": "Home"
+  },
+  {
+    "id": "boilerplate.containers.HomePage.dateSetup.intro",
+    "defaultMessage": "Welcome to Jamdates! Lets set up a jam date for you.",
+    "message": "Welcome to Jamdates! Lets set up a jam date for you."
+  },
+  {
+    "id": "boilerplate.containers.HomePage.dateSetup.genres",
+    "defaultMessage": "Choose genres you'd like to play in. We'll put you together will people with similar musical style.",
+    "message": "Choose genres you'd like to play in. We'll put you together will people with similar musical style."
+  },
+
+  {
+    "id": "boilerplate.containers.HomePage.dateSetup.selectSkill",
+    "defaultMessage": "Select your skill level. It's important that you are honest here, as we use this to find similar musicians to play with you"
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.beginner",
+    "defaultMessage": "Beginner - 1-2 years of experience, know the basics and able to play simple songs"
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.midLevel",
+    "defaultMessage": "Mid-level - played for some years, good technique and able to play a wide variety of songs"
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.skilled",
+    "defaultMessage": "Skilled - played for many years, able to improvise and pick up melodies as you here them"
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.professional",
+    "defaultMessage": "Professional - Highly skilled, plays (or could as well play) professionaly"
+  },
+  
+  {
+    "id": "jamdates.instruments.guitar",
+    "defaultMessage": "Guitar"
+  },
+  {
+    "id": "jamdates.instruments.bass",
+    "defaultMessage": "Bass guitar"
+  },
+  {
+    "id": "jamdates.instruments.drums",
+    "defaultMessage": "Drums"
+  },
+  {
+    "id": "jamdates.instruments.keyboard",
+    "defaultMessage": "Keyboard"
+  },
+  {
+    "id": "jamdates.instruments.sing",
+    "defaultMessage": "Sing"
+  },
+  {
+    "id": "jamdates.instruments.saxophone",
+    "defaultMessage": "Saxophone"
+  },
+
+  {
+    "id": "jamdates.instruments.rock",
+    "defaultMessage": "Rock"
+  },
+  {
+    "id": "jamdates.instruments.pop",
+    "defaultMessage": "Pop"
+  },
+  {
+    "id": "jamdates.instruments.jazz",
+    "defaultMessage": "Jazz"
+  },
+  {
+    "id": "jamdates.instruments.metal",
+    "defaultMessage": "Metal"
+  },
+  {
+    "id": "jamdates.instruments.blues",
+    "defaultMessage": "Blues"
+  },
+  {
+    "id": "jamdates.instruments.rap",
+    "defaultMessage": "Rap"
+  },
+  {
+    "id": "jamdates.instruments.fusion",
+    "defaultMessage": "Fusion"
+  },
+
+  {
+    "id": "jamdates.HomePage.dateSetup.finalMessage",
+    "defaultMessage": "Great! Lastly, enter your contact info and we will contact you as soon as we have put together a group for you."
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.finalMessage2",
+    "defaultMessage": "What happens then?"
+  },
+  {
+    "id": "jamdates.HomePage.dateSetup.finalMessage3",
+    "defaultMessage": "You'll get asked to pick a few tunes for the jam, or if you'd rather just jam. Then we'll quickly find a time that fits for everyone!"
+  },
+
+  {
+    "id": "jamdates.HomePage.dateSetup.share",
+    "defaultMessage": "Perfect. Oh one last thing. In order for us to find some really fitting people for you to play with, we need more people onboard. If you share this link with your friends, it would probably help us both a lot!"
+  }
+
+]
